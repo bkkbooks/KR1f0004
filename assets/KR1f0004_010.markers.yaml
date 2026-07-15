@@ -16,6 +16,8 @@ markers:
       ', id: KR1f0004_krp_010-bkkkrnewl2}
   - {type: line-break, offset: 19, content: '', id: KR1f0004_WYG_010-1a02}
   - {type: indent, offset: 19, content: 　　, id: KR1f0004_krp_010-bkkind2}
+  - {type: substitution, offset: 22, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
+  - {type: substitution, offset: 26, original: 盖, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17353}}
   - {type: 'kr:newline', offset: 38, content: '
 
       ', id: KR1f0004_krp_010-bkkkrnewl3}
@@ -57,11 +59,13 @@ markers:
 
       ', id: KR1f0004_krp_010-bkkkrnewl10}
   - {type: line-break, offset: 141, content: '', id: KR1f0004_WYG_010-1b01}
+  - {type: substitution, offset: 146, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16303}}
   - {type: 'kr:newline', offset: 162, content: '
 
       ', id: KR1f0004_krp_010-bkkkrnewl11}
   - {type: line-break, offset: 162, content: '', id: KR1f0004_WYG_010-1b02}
   - {type: indent, offset: 162, content: 　　, id: KR1f0004_krp_010-bkkind9}
+  - {type: substitution, offset: 163, original: 叅, replacement: 參, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19566}}
   - {type: punctuation, offset: 178, content: (, id: KR1f0004_krp_010-bkkpn7}
   - {type: punctuation, offset: 181, content: /, id: KR1f0004_krp_010-bkkpn8}
   - {type: punctuation, offset: 181, content: ), id: KR1f0004_krp_010-bkkpn9}
@@ -77,4 +81,4 @@ markers:
 
       ', id: KR1f0004_krp_010-bkkkrnewl13}
   back: []
-hash: sha256:386b14a0b6254c28ba6a2036c0d6286e5b5eb8fbb4f2cfbc3fc4835875d97e93
+hash: sha256:0679c1100502a78832dad0648f71e0b9d53bf83617a637507558002f3799beef
